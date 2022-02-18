@@ -1,0 +1,23 @@
+/* indexstyle.css */
+
+* {
+    background-color: navajowhite;
+}
+
+.header {
+    color: red;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.recipe {
+    text-align: center;
+    font-size: 24px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+button{
+    margin-left: 5px;
+    text-align: center;
+    
+}
